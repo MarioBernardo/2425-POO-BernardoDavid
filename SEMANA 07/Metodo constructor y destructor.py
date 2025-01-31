@@ -42,7 +42,7 @@ class ViajeCorto(Transporte):
         print("El viaje corto ha sido eliminado.")
 
 
-# Viajes largos con ciudades
+# Viajes largos
 class ViajeLargo(Transporte):
     def __init__(self, tipo, ciudad_origen, ciudad_destino):
         super().__init__(tipo)
