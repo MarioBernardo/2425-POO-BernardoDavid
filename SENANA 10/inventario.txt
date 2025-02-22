@@ -1,0 +1,25 @@
+ID: 0001
+Nombre: Aceite
+Cantidad: 120 unidades
+Precio: $2.00
+----------------------
+ID: 0002
+Nombre: Arroz
+Cantidad: 99 quintales
+Precio: $50.00
+----------------------
+ID: 0003
+Nombre: Azucar
+Cantidad: 68 quitales
+Precio: $46.00
+----------------------
+ID: 0004
+Nombre: Atun
+Cantidad: 145 unidades
+Precio: $1.32
+----------------------
+ID: 0005
+Nombre: Sardina
+Cantidad: 120 unidades
+Precio: $1.20
+----------------------
